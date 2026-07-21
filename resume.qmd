@@ -1,91 +1,96 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Adrian J. Hernandez's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Adrian J. Hernandez
+
+Data Analyst & SEO Specialist | Lehi, UT
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+  <a href="mailto:adrianjhndez@gmail.com">adrianjhndez@gmail.com</a>
+| <a href="https://www.linkedin.com/in/adrian-hernandez-alvarado-08a18b2b7">LinkedIn</a>
+| <a href="https://profile.indeed.com/p/adrianh-sxsyz9l">Indeed Profile</a>
 </div>
 
 
-## Currently
+## Professional Summary
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Analytics-oriented professional with a background in performance reporting, analysis, and cross‑department collaboration. I turn messy data into clear dashboards and actionable insights using Python, SQL, and a healthy dose of curiosity. My experience spans SEO strategy, technical optimizations, and customer support—all built on strong communication, analytical thinking, and attention to detail. Fast learner who adapts quickly to new tools and technologies. Looking to join a team that uses data to drive real decisions.
 
 
-### Research interests
+## Specialized in
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data analytics & reporting, performance metrics & KPIs, dashboard & report development, Python (Polars, Pandas, scikit‑learn), SQL, technical & process optimization, automation concepts, SEO, cross‑functional collaboration, technical & non‑technical communication.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021 – 2026`
+__Brigham Young University – Idaho__  
+B.S. Computer Science (in progress)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2020`
+__Inspire Connections__  
+High School Diploma
 
 
+## Work Experience
 
-## Awards
+`Feb 2024 – Jan 2026`
+__AI Healthcare Marketing__ – SEO Specialist
 
-`2012`
-President, *Royal Society*, London, UK
+- Analyzed performance data for 50+ client websites using Google Analytics, tracking traffic, conversions, and engagement.
+- Built custom dashboards and reports that improved search visibility across key metrics.
+- Conducted keyword research on 200+ target terms to guide content strategy.
+- Performed technical SEO audits (crawlability, site speed) and worked with developers on fixes.
+- Collaborated with content and development teams to turn business needs into scalable technical improvements.
 
-Associate, *French Academy of Science*, Paris, France
+`Aug 2021 – Dec 2021`
+__Brigham Young University – Idaho__ – Call Center Representative
+
+- Provided first-level technical support, analyzing and prioritizing daily incidents.
+- Documented issues in real‑time systems for cross‑functional resolution.
+- Helped minimize service disruptions during high‑priority technology events.
+
+`Oct 2020 – Apr 2021`
+__Subway__ – Sandwich Artist
+
+- Served 100+ customers per week in a fast‑paced environment, ensuring order accuracy and satisfaction.
+- Operated point‑of‑sale systems while maintaining quality, hygiene, and safety standards.
+- Communicated effectively with Spanish‑speaking customers.
+
+`May 2020 – Aug 2020`
+__Yellowstone Bear World__ – Food Service Worker / Ride Operator
+
+- Operated rides and managed guest safety for 500+ daily visitors.
+- Communicated safety procedures clearly to diverse guests, resolving concerns professionally.
 
 
+## Certifications
 
-## Publications
+- Google Analytics Certification
+- Brigocal Academy: How to Master Local Keyword Research
+- Brightlocal Academy: How to Do Insightful Competitor Analysis for Local SEO
+- Brightlocal Academy: Google Analytics 4: Essentials for Local SEO
+- Brightlocal Academy: How to Create, Optimize, and Manage Google Business Profiles
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+*(Additional data science certifications will be added upon completion of coursework.)*
 
 
-## Occupation
+## Skills
 
-`1600`
-__Royal Mint__, London
+- **Languages:** Python (Polars, pandas, scikit‑learn, lets‑plot), SQL
+- **Tools:** Git, VS Code, Quarto, Google Analytics, Excel
+- **Soft Skills:** Bilingual English/Spanish, cross‑team collaboration, technical communication
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Languages
 
+- English — Native
+- Spanish — Native
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2026 -->
