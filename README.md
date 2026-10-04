@@ -2,7 +2,7 @@
 
 Hey everyone! Welcome to my data science portfolio. I am Adrian Hernandez, a Computer Science major at BYU Idaho. I am from Puerto Rico and I speak Spanish, English, and Portuguese. I served a mission in Argentina. I love traveling, hiking, gaming, anime, and Latin dancing.
 
-This portfolio showcases my work in data science. It is built with Quarto and hosted on GitHub Pages. You can view the live site here: [insert your live link].
+This portfolio showcases my work in data science. It is built with Quarto and hosted on GitHub Pages. 
 
 ## About Me
 
